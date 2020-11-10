@@ -4,5 +4,5 @@
 	"description": "Run URLs through RSS-Bridge detection",
 	"version": 1.0,
 	"entrypoint": "RssBridge",
-	"type": "user"
+	"type": "system"
 }

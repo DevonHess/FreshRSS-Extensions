@@ -1,0 +1,8 @@
+{
+	"name": "RSS-Bridge",
+	"author": "Devon Hess",
+	"description": "Run URLs through RSS-Bridge detection",
+	"version": 1.0,
+	"entrypoint": "RssBridge",
+	"type": "user"
+}

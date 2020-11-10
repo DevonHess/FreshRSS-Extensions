@@ -1,7 +1,7 @@
 {
 	"name": "RSS-Bridge",
 	"author": "Devon Hess",
-	"description": "Run URLs through RSS-Bridge detection",
+	"description": "Run URLs through <a href=\"https://github.com/rss-bridge/rss-bridge\">RSS-Bridge</a> detection",
 	"version": 1.0,
 	"entrypoint": "RssBridge",
 	"type": "system"

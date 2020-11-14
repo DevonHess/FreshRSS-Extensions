@@ -10,7 +10,7 @@ To use it, upload this entire directory to the FreshRSS `./extensions` directory
 
 ## Bridge availablility
 
-Detection only works for bridges that are [whitelisted](https://github.com/RSS-Bridge/rss-bridge/wiki/Whitelisting) in RSS-Bridge. Website changes will sometimes break bridges, so make sure you're running the most recent version of RSS-Bridge and [open an issue](https://github.com/RSS-Bridge/rss-bridge/issues) if you're still having problems.
+Detection only works for bridges that are [whitelisted](https://github.com/RSS-Bridge/rss-bridge/wiki/Whitelisting) in RSS-Bridge. The `detectParameters` function inside a bridge is what allows URLs to be detected; not all bridges support this. Website changes will sometimes break bridges, so make sure you're running the most recent version of RSS-Bridge and [open an issue](https://github.com/RSS-Bridge/rss-bridge/issues) if you're still having problems.
 
 It's recommended that you [selfhost RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge/wiki/Installation) so can enable all the bridges you want to use and ensure all bridges are up to date.
 

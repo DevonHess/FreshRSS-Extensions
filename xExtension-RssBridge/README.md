@@ -1,6 +1,6 @@
 # RSS-Bridge extension
 
-This FreshRSS extension sends added feeds through [RSS-Bridge](https://github.com/rss-bridge/rss-bridge), generating RSS and Atom feeds for websites that don't have one. This allows FreshRSS to instantly support hundreds of new sites, e.g. Facebook and Twitter.
+This FreshRSS extension sends added feeds through [RSS-Bridge](https://github.com/rss-bridge/rss-bridge), generating RSS and Atom feeds for websites that don't have one. This allows FreshRSS to instantly support [hundreds of new sites](https://github.com/RSS-Bridge/rss-bridge/tree/master/bridges), e.g. Facebook and Twitter.
 
 To use it, upload this entire directory to the FreshRSS `./extensions` directory on your server and enable it on the extension panel in FreshRSS.
 

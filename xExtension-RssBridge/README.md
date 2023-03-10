@@ -14,4 +14,4 @@ Detection only works for bridges that are [whitelisted](https://github.com/RSS-B
 
 It's recommended that you [selfhost RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge/wiki/Installation) so can enable all the bridges you want to use and ensure all bridges are up to date.
 
-If you don't want to selfhost, here are some [publically available instances](https://github.com/RSS-Bridge/rss-bridge/wiki/Public-hosts).
+If you don't want to selfhost, here are some [publically available instances](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html).
